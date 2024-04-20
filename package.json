@@ -1,0 +1,20 @@
+{
+  "name": "myatm",
+  "version": "1.0.0",
+  "description": "A CLI based Project for imaginory ATM",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./public/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Muhammad Hussain",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.5"
+  }
+}
